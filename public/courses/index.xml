@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events | Midwest Coal Ash Association</title>
+    <link>www.midwestcoalash.com/courses/</link>
+      <atom:link href="www.midwestcoalash.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Events</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Midwest Coal Ash Association</copyright><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>/www.midwestcoalash.com/images/icon_hu90d94ce9b86e98029eff441e2de5ddf9_13703_512x512_fill_lanczos_center_2.png</url>
+      <title>Events</title>
+      <link>www.midwestcoalash.com/courses/</link>
+    </image>
+    
+  </channel>
+</rss>
