@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "News"
+title: "Publications"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-07-12T08:51:33-04:00
-lastmod: 2020-07-12T08:51:33-04:00
+date: 2020-07-12T09:53:49-04:00
+lastmod: 2020-07-12T09:53:49-04:00
 featured: false
 draft: false
 

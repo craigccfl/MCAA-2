@@ -74,3 +74,5 @@ Tennessee Tech University
 ### WOCA 2017 Oral Presentation Award <br/>
 *Posted July 30, 2017*<br/>
 In 2017, The Midwest Coal Ash Association sponsored the WOCA Student Oral Presentation Award. We would like to congratulate **Xenia Wirth**, Georgia Institute of Technology, for being this year’s award winner and recipient of the **$1,000 prize!**
+
+[Dated News Posts]({{< ref "/news/index.md" >}})

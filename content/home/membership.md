@@ -39,10 +39,10 @@ subtitle = "Active Members"
 
 [advanced]
  # Custom CSS.
- css_style = ""
+ css_style = "font-large.scss"
 
  # CSS class.
- css_class = ""
+ css_class = "font-large.scss"
 +++
 
 |**MCAA Member**                       |               **Website**      |

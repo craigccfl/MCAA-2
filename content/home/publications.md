@@ -45,4 +45,4 @@ subtitle = ""
  css_class = ""
 +++
 
-[**Add some elements here**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)
+[Add Links to Publications (Here)]({{< ref "/publications/index.md" >}})
