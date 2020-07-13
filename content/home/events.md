@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 6  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Events"
+title = "Conferences"
 subtitle = ""
 
 [design]
