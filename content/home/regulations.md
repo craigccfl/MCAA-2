@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 8  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Regulations Links"
+title = "CCP Regulations"
 subtitle = ""
 
 [design]
@@ -45,4 +45,3 @@ subtitle = ""
  css_class = ""
 +++
 
-[**Add some elements here**](https://sourcethemes.com/academic/docs/writing-markdown-latex/)

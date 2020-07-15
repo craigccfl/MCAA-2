@@ -48,18 +48,31 @@ subtitle = "Active Members"
 |**MCAA Member**                       |               **Website**      |
 |--------------------------------------|-------------------------------:|
 |**American Coal Ash Association (ACAA)**  |www.acaa-usa.org                |
+|||
 |**American Electric Power (AEP)**         |www.aep.com                     |
+|||
 |**Beneficial Reuse Management/Gypsoil**   |www.gypsoil.com                 |
+|||
 |**Boral Resources**                       |www.flyash.com                  |
+|||
 |**Charah, Inc.**                          |www.charah.com                  |
+|||
 |**Civil & Environmental Consultants, Inc.**|www.cecinc.com                  |
+|||
 |**Energy Industries of Ohio**             |www.energyinohio.org            |
+|||
 |**First Energy**                          |www.fistenergycorp.com          |
+|||
 |**GAI Consultants, Inc.**                 |www.gaiconsultants.com          |
+|||
 |**Hull & Associates, Inc.**               |www.hullinc.com                 |
+|||
 |**Lafarge Holcim**                        |www.lafargeholcim.us            |
+|||
 |**LG&E Energy, LLC**                      |www.lge-ku.com                  |
+|||
 |**The Ohio State University**             |https://ccp.osu.edu             |
+|||
 |**Trans Ash, Inc.**                       |www.transash.com                |
 |||
 
