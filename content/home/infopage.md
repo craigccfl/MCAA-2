@@ -50,7 +50,7 @@ subtitle = "Additional Site Links"
 
 [**Conferences, Meetings & Training Events**]({{< ref "/conferences/conference-page.md" >}})
 
-[**Organizations and Industry Links**]({{< ref "/organizations/organizations.md" >}})
+[**Organizations and Industry Links**]({{< ref "/organizations/index.md" >}})
 
 [**Industry Publications**]({{< ref "/publications/publications.md" >}})
 
