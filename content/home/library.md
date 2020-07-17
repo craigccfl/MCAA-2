@@ -6,8 +6,8 @@ active = true  # Activate this widget? true/false
 weight = 8  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Info-Page"
-subtitle = "Additional Site Links"
+title = "Library"
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -47,10 +47,6 @@ subtitle = "Additional Site Links"
 <br/>
 <br/>
 
-
-[**Conferences, Meetings & Training Events**]({{< ref "/conferences/conference-page.md" >}})
-
-[**Organizations and Industry Links**]({{< ref "/organizations/index.md" >}})
 
 [**Industry Publications**]({{< ref "/publications/publications.md" >}})
 

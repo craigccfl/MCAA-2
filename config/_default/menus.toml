@@ -24,14 +24,19 @@
   weight = 40
 
 [[main]]
-  name = "Info-Page"
+  name = "Events"
   url = "#infopage"
   weight = 50
+
+  [[main]]
+    name = "Library"
+    url = "#Library"
+    weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
