@@ -5,7 +5,7 @@
     <link>www.midwestcoalash.com/</link>
       <atom:link href="www.midwestcoalash.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Midwest Coal Ash Association</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Midwest Coal Ash Association</copyright><lastBuildDate>Sat, 11 Jul 2020 09:59:11 -0400</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Midwest Coal Ash Association</copyright><lastBuildDate>Fri, 17 Jul 2020 00:40:30 -0400</lastBuildDate>
     <image>
       <url>/www.midwestcoalash.com/images/icon_hu90d94ce9b86e98029eff441e2de5ddf9_13703_512x512_fill_lanczos_center_2.png</url>
       <title>Midwest Coal Ash Association</title>
@@ -55,34 +55,100 @@
     </item>
     
     <item>
-      <title>Regulations</title>
-      <link>www.midwestcoalash.com/regulations/</link>
-      <pubDate>Mon, 13 Jul 2020 10:14:52 -0400</pubDate>
-      <guid>www.midwestcoalash.com/regulations/</guid>
+      <title>Regulations &amp; Updates</title>
+      <link>www.midwestcoalash.com/regulations/reg_update/</link>
+      <pubDate>Fri, 17 Jul 2020 00:40:30 -0400</pubDate>
+      <guid>www.midwestcoalash.com/regulations/reg_update/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Conferences, Meetings &amp; Training Events</title>
+      <link>www.midwestcoalash.com/conferences/conference-page/</link>
+      <pubDate>Fri, 17 Jul 2020 00:30:04 -0400</pubDate>
+      <guid>www.midwestcoalash.com/conferences/conference-page/</guid>
+      <description>&lt;p&gt;June 23 to 24 – CAER/ACAA CCP Workshop, Birmingham, AL (postponed)&lt;/p&gt;
+&lt;p&gt;June 28 to July 2 – ASTM C09/01 Meetings, Boston, MA (cancelled) &lt;/p&gt;
+&lt;p&gt;June 29  to  July 1 – International Conference on Cementitious Materials, Toulouse, France (postponed to October 12 to 13) &lt;/p&gt;
+&lt;p&gt;August 2 to 6 – AASHTO Committee on Pavement &amp;amp; Materials, Miami, FL (now virtual only meeting July 27 to August 7)       &lt;/p&gt;
+&lt;p&gt;September 8 to 11 – International Pittsburgh Coal Conference, Pittsburgh, PA (virtual only) &lt;/p&gt;
+&lt;p&gt;October 1 to 9 – ASTM C01/09 Meetings, (virtual only)&lt;/p&gt;
+&lt;p&gt;October 7 to 8 – National Coal Council, Fall Meeting, Oak Ridge, TN &lt;/p&gt;
+&lt;p&gt;October 12 to 13 ‐ International Conference on Cementitious Materials, Toulouse, France (postponed to June 7 to 9, 2021) &lt;/p&gt;
+&lt;p&gt;October 25 to 29 – ACI Fall Convention, Charlotte, NC (virtual only)&lt;/p&gt;
+&lt;p&gt;October 26 to 30 – ASTM E50/60 Meetings, Orlando, FL &lt;/p&gt;
+&lt;p&gt;October 27 to 28 – ACAA Fall Membership Meeting, French Lick, IN (cancelled)&lt;/p&gt;
+&lt;p&gt;November 13 to 15 – Anna Maria Island Workshop, Holmes Beach, FL &lt;/p&gt;
+&lt;p&gt;December 8 to 10 ‐ Power‐Gen 2020, Orlando, FL 2021 &lt;/p&gt;
+&lt;p&gt;January 24 to 28 ‐ Transportation Research Board Annual Meeting, Washington, D.C. &lt;/p&gt;
+&lt;p&gt;February 2 to 3 – ACAA Winter Membership Meeting, Clearwater Beach, FL &lt;/p&gt;
+&lt;p&gt;May 17 to 20 – World of Coal Ash 2021, Covington, KY &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Organizations</title>
-      <link>www.midwestcoalash.com/organizations/</link>
-      <pubDate>Mon, 13 Jul 2020 10:14:34 -0400</pubDate>
-      <guid>www.midwestcoalash.com/organizations/</guid>
+      <link>www.midwestcoalash.com/organizations/organizations/</link>
+      <pubDate>Fri, 17 Jul 2020 00:07:01 -0400</pubDate>
+      <guid>www.midwestcoalash.com/organizations/organizations/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Organizations&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&#34;right&#34;&gt;&lt;strong&gt;Website&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;American Coal Ash Association (ACAA)&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://www.acaa-usa.org&#34;&gt;www.acaa-usa.org&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Electric Power Research Institute (EPRI)&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://epri.com&#34;&gt;https://epri.com&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;Utility Solid Waste Activities Group (USWAG)&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://uswag.org&#34;&gt;https://uswag.org&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;World of Coal Ash (WOCA)&lt;/strong&gt;&lt;/td&gt;
+&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://worldofcoalash.org&#34;&gt;https://worldofcoalash.org&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Information</title>
+      <link>www.midwestcoalash.com/news/information/</link>
+      <pubDate>Sat, 11 Jul 2020 17:50:05 -0400</pubDate>
+      <guid>www.midwestcoalash.com/news/information/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>www.midwestcoalash.com/publications/</link>
-      <pubDate>Sun, 12 Jul 2020 09:53:49 -0400</pubDate>
-      <guid>www.midwestcoalash.com/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News</title>
-      <link>www.midwestcoalash.com/news/</link>
-      <pubDate>Sun, 12 Jul 2020 08:51:33 -0400</pubDate>
-      <guid>www.midwestcoalash.com/news/</guid>
+      <link>www.midwestcoalash.com/publications/publications/</link>
+      <pubDate>Sat, 11 Jul 2020 10:18:40 -0400</pubDate>
+      <guid>www.midwestcoalash.com/publications/publications/</guid>
       <description></description>
     </item>
     
@@ -91,14 +157,6 @@
       <link>www.midwestcoalash.com/services/services/</link>
       <pubDate>Sat, 11 Jul 2020 09:59:11 -0400</pubDate>
       <guid>www.midwestcoalash.com/services/services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Events</title>
-      <link>www.midwestcoalash.com/conferences/events/</link>
-      <pubDate>Sat, 11 Jul 2020 08:00:18 -0400</pubDate>
-      <guid>www.midwestcoalash.com/conferences/events/</guid>
       <description></description>
     </item>
     

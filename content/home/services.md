@@ -45,21 +45,19 @@ subtitle = ""
  css_class = ""
 +++
 
-> **Utilization** {{< img src="/img/dam.png" caption="Utilization" >}}
->>> MCAA promotes the general welfare of the coal combustion products industry through the socially beneficial, technically sound and environmentally safe utilization of coal combustion products (CCPs).
+> **Utilization** {{< img src="/img/dam.png" caption="Utilization" >}} MCAA promotes the general welfare of the coal combustion products industry through the socially beneficial, technically sound and environmentally safe utilization of coal combustion products (CCPs).
 
 <br/>
 <br/>
 
-> **Education** {{< img src="img/education2.png" >}}
->>> One of the purposes of MCAA is to inform and educate its members and others related to the utilization of coal combustion products.
+> **Education** {{< img src="img/education2.png" caption="Education" >}} One of the purposes of MCAA is to inform and educate its members and others related to the utilization of coal combustion products.
 
 <br/>
 <br/>
 
-> **Standards** {{< img src="img/laboratory.png" >}}
->>> MCAA establishes standards of professional practice and promotes mutual confidence among its members and users of CCP's.
+> **Standards** {{< img src="img/laboratory.png" caption="Standards" >}} MCAA establishes standards of professional practice and promotes mutual confidence among its members and users of CCP's.
 
+<br/>
+<br/>
 
-> **Support**<br/> {{< img src="img/plant.png" >}}
->>> MCAA works and cooperates with governmental officials, material specifiers, and other organizations to improve the marketing environments for coal combustion products.
+> **Support**<br/> {{< img src="img/plant.png" caption="Support" >}} MCAA works and cooperates with governmental officials, material specifiers, and other organizations to improve the marketing environments for coal combustion products.

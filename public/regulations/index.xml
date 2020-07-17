@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regulations | Midwest Coal Ash Association</title>
+    <link>www.midwestcoalash.com/regulations/</link>
+      <atom:link href="www.midwestcoalash.com/regulations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regulations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Midwest Coal Ash Association</copyright><lastBuildDate>Fri, 17 Jul 2020 00:40:30 -0400</lastBuildDate>
+    <image>
+      <url>/www.midwestcoalash.com/images/icon_hu90d94ce9b86e98029eff441e2de5ddf9_13703_512x512_fill_lanczos_center_2.png</url>
+      <title>Regulations</title>
+      <link>www.midwestcoalash.com/regulations/</link>
+    </image>
+    
+    <item>
+      <title>Regulations &amp; Updates</title>
+      <link>www.midwestcoalash.com/regulations/reg_update/</link>
+      <pubDate>Fri, 17 Jul 2020 00:40:30 -0400</pubDate>
+      <guid>www.midwestcoalash.com/regulations/reg_update/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

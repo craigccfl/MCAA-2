@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Publications"
+title: "Regulations & Updates"
 subtitle: ""
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2020-07-12T09:53:49-04:00
-lastmod: 2020-07-12T09:53:49-04:00
+date: 2020-07-17T00:40:30-04:00
+lastmod: 2020-07-17T00:40:30-04:00
 featured: false
 draft: false
 

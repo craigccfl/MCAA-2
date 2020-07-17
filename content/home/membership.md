@@ -6,12 +6,12 @@ active = true  # Activate this widget? true/false
 weight = 7  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Membership"
-subtitle = "Active Members"
+title = "Members"
+subtitle = "Active"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -76,7 +76,6 @@ subtitle = "Active Members"
 |**Trans Ash, Inc.**                       |www.transash.com                |
 |||
 
-<br/>
 <br/>
 <br/>
 {{% alert note %}}

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News | Midwest Coal Ash Association</title>
-    <link>www.midwestcoalash.com/news/</link>
-      <atom:link href="www.midwestcoalash.com/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>News</description>
+    <title>Other News | Midwest Coal Ash Association</title>
+    <link>www.midwestcoalash.com/tag/other-news/</link>
+      <atom:link href="www.midwestcoalash.com/tag/other-news/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Midwest Coal Ash Association</copyright><lastBuildDate>Sat, 11 Jul 2020 17:50:05 -0400</lastBuildDate>
     <image>
       <url>/www.midwestcoalash.com/images/icon_hu90d94ce9b86e98029eff441e2de5ddf9_13703_512x512_fill_lanczos_center_2.png</url>
-      <title>News</title>
-      <link>www.midwestcoalash.com/news/</link>
+      <title>Other News</title>
+      <link>www.midwestcoalash.com/tag/other-news/</link>
     </image>
     
     <item>

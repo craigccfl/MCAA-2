@@ -3,15 +3,15 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 6  # Order that this section will appear.
+weight = 8  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Conferences"
-subtitle = ""
+title = "Info-Page"
+subtitle = "Additional Site Links"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -44,8 +44,14 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+<br/>
+<br/>
 
 
-## World of Coal Ash <br/>
-{{< img src="/img/woca.png" caption="" width="" link="/img/woca.png" align="left" >}}
-https://10times.com/woca
+[**Conferences, Meetings & Training Events**]({{< ref "/conferences/conference-page.md" >}})
+
+[**Organizations and Industry Links**]({{< ref "/organizations/organizations.md" >}})
+
+[**Industry Publications**]({{< ref "/publications/publications.md" >}})
+
+[**Regulations & Updates**]({{< ref "/regulations/reg_update.md" >}})

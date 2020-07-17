@@ -52,5 +52,3 @@ hero_media = "logo-MCAA.png"
 +++
 
 **MCAA**
-
-**Put our mission statement here**

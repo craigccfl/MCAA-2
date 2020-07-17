@@ -19,34 +19,19 @@
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Members"
+  url = "#membership"
   weight = 40
 
 [[main]]
-  name = "Conferences"
-  url = "#conferences"
+  name = "Info-Page"
+  url = "#infopage"
   weight = 50
-
-[[main]]
-  name = "Membership"
-  url = "#membership"
-  weight = 60
-
-[[main]]
-  name = "Organizations"
-  url = "#organizations"
-  weight = 70
-
-[[main]]
-  name = "Regulations"
-  url = "#regulations"
-  weight = 80
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
