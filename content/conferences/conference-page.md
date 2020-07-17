@@ -27,34 +27,34 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-June 23 to 24 – CAER/ACAA CCP Workshop, Birmingham, AL (postponed)
+> June 23 to 24 – CAER/ACAA CCP Workshop, Birmingham, AL (postponed)
 
-June 28 to July 2 – ASTM C09/01 Meetings, Boston, MA (cancelled) 
+> June 28 to July 2 – ASTM C09/01 Meetings, Boston, MA (cancelled) 
 
-June 29  to  July 1 – International Conference on Cementitious Materials, Toulouse, France (postponed to October 12 to 13) 
+> June 29  to  July 1 – International Conference on Cementitious Materials, Toulouse, France (postponed to October 12 to 13) 
 
-August 2 to 6 – AASHTO Committee on Pavement & Materials, Miami, FL (now virtual only meeting July 27 to August 7)       
+> August 2 to 6 – AASHTO Committee on Pavement & Materials, Miami, FL (now virtual only meeting July 27 to August 7)       
 
-September 8 to 11 – International Pittsburgh Coal Conference, Pittsburgh, PA (virtual only) 
+> September 8 to 11 – International Pittsburgh Coal Conference, Pittsburgh, PA (virtual only) 
 
-October 1 to 9 – ASTM C01/09 Meetings, (virtual only)
+> October 1 to 9 – ASTM C01/09 Meetings, (virtual only)
 
-October 7 to 8 – National Coal Council, Fall Meeting, Oak Ridge, TN 
+> October 7 to 8 – National Coal Council, Fall Meeting, Oak Ridge, TN 
 
-October 12 to 13 ‐ International Conference on Cementitious Materials, Toulouse, France (postponed to June 7 to 9, 2021) 
+> October 12 to 13 ‐ International Conference on Cementitious Materials, Toulouse, France (postponed to June 7 to 9, 2021) 
 
-October 25 to 29 – ACI Fall Convention, Charlotte, NC (virtual only)
+> October 25 to 29 – ACI Fall Convention, Charlotte, NC (virtual only)
 
-October 26 to 30 – ASTM E50/60 Meetings, Orlando, FL 
+> October 26 to 30 – ASTM E50/60 Meetings, Orlando, FL 
 
-October 27 to 28 – ACAA Fall Membership Meeting, French Lick, IN (cancelled)
+> October 27 to 28 – ACAA Fall Membership Meeting, French Lick, IN (cancelled)
 
-November 13 to 15 – Anna Maria Island Workshop, Holmes Beach, FL 
+> November 13 to 15 – Anna Maria Island Workshop, Holmes Beach, FL 
 
-December 8 to 10 ‐ Power‐Gen 2020, Orlando, FL 2021 
+> December 8 to 10 ‐ Power‐Gen 2020, Orlando, FL 2021 
 
-January 24 to 28 ‐ Transportation Research Board Annual Meeting, Washington, D.C. 
+> January 24 to 28 ‐ Transportation Research Board Annual Meeting, Washington, D.C. 
 
-February 2 to 3 – ACAA Winter Membership Meeting, Clearwater Beach, FL 
+> February 2 to 3 – ACAA Winter Membership Meeting, Clearwater Beach, FL 
 
-May 17 to 20 – World of Coal Ash 2021, Covington, KY 
+> May 17 to 20 – World of Coal Ash 2021, Covington, KY 

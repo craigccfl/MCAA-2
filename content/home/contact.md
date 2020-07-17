@@ -3,10 +3,10 @@
 widget = "contact"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 130  # Order that this section will appear.
+weight = 13  # Order that this section will appear.
 
 title = "Contact Us"
-subtitle = "MCAA"
+subtitle = "If need us to call, please leave a number in the message box."
 
 # Automatically link email and phone?
 autolink = true
