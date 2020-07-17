@@ -25,13 +25,13 @@
 
 [[main]]
   name = "Events"
-  url = "#infopage"
+  url = "#events"
   weight = 50
 
-  [[main]]
-    name = "Library"
-    url = "#Library"
-    weight = 60
+[[main]]
+  name = "Library"
+  url = "#library"
+  weight = 60
 
 [[main]]
   name = "Contact"
