@@ -50,10 +50,23 @@ title = "Welcome to the MCAA website"
  css_class = ""
 +++
 
+<br/>
+<br/>
+<br/>
 
-
-**Promoting environmentally safe beneficial use of coal combustion products**
-
+## Promoting environmentally safe beneficial use of coal combustion products
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 {{% alert note %}}
 **Midwest Coal Ash Association Membership**</br>
