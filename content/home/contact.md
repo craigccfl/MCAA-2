@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 13  # Order that this section will appear.
 
 title = "Contact Us"
-subtitle = "If need us to call, please leave a number in the message box."
+subtitle = "Need us to call, please leave a number in the message box."
 
 # Automatically link email and phone?
 autolink = true
