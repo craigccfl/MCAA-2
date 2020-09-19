@@ -127,13 +127,13 @@
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;&lt;strong&gt;Organizations&lt;/strong&gt;&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;&lt;strong&gt;Website&lt;/strong&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;&lt;strong&gt;Website&lt;/strong&gt;&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;American Coal Ash Association (ACAA)&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;http://www.acaa-usa.org&#34;&gt;www.acaa-usa.org&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;a href=&#34;http://www.acaa-usa.org&#34;&gt;www.acaa-usa.org&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -141,7 +141,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Electric Power Research Institute (EPRI)&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://epri.com&#34;&gt;https://epri.com&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;a href=&#34;https://epri.com&#34;&gt;https://epri.com&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -149,7 +149,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;Utility Solid Waste Activities Group (USWAG)&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://uswag.org&#34;&gt;https://uswag.org&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;a href=&#34;https://uswag.org&#34;&gt;https://uswag.org&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
@@ -157,7 +157,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;strong&gt;World of Coal Ash (WOCA)&lt;/strong&gt;&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;&lt;a href=&#34;https://worldofcoalash.org&#34;&gt;https://worldofcoalash.org&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;&lt;a href=&#34;https://worldofcoalash.org&#34;&gt;https://worldofcoalash.org&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;/td&gt;
